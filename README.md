@@ -12,22 +12,24 @@ Il faudra voyager dans c'est différentes perspectives pour avancer dans les dif
 Les Touches :
 
 Mouvement
-w (ou d) - Avancer
-s - Reculer
-a (ou q) - Gauche
-d - Droite
+- w (ou d) - Avancer
+- s - Reculer
+- a (ou q) - Gauche
+- d - Droite
 
 Interaction
-e - Interagir
+- e - Interagir
 
 Interaction avec un objet
-Clique Gauche - Lancer
-Clique Droit - Lâcher
+- Clique Gauche - Lancer
+- Clique Droit - Lâcher
 
 Mécanique
-1 - Perspective rouge
-2 - Perspective bleu
-3 - Perspective vert
+- 1 - Perspective rouge
+- 2 - Perspective bleu
+- 3 - Perspective vert
+
+
 
 ## Plus d'informations
 
