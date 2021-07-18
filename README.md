@@ -31,7 +31,7 @@ Mécanique
 
 ## Versions
 
-Dernière Version Disponible : 2.0
+Dernière Version Disponible : 3.0
 
 
 ## Plus d'informations
