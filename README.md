@@ -35,5 +35,3 @@ Dernière Version Disponible : 3.0
 
 
 ## Plus d'informations
-
-Site : http://www.lesmaconsdesappalaches.fr/colorless/index.php
