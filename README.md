@@ -12,7 +12,7 @@ Il faudra voyager dans c'est différentes perspectives pour avancer dans les dif
 Les Touches :
 
 Mouvement
-- w (ou d) - Avancer
+- w (ou z) - Avancer
 - s - Reculer
 - a (ou q) - Gauche
 - d - Droite
